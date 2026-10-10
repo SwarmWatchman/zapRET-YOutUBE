@@ -1,10 +1,10 @@
 # zapRET-YOutUBE
 
-zapRET-YOutUBE снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации.
+Актуальная версия с поддержкой работы YouTube в текущих условиях. Надежнее, стабильнее, быстрее
 
 zapRET-YOutUBE снимает искусственное замедление YouTube: ролики и Shorts снова открываются в нормальном качестве, без минутной буферизации. обход замедления YouTube, YouTube тормозит что делать, YouTube не грузит видео, ускорить YouTube без VPN. Windows 10 и 11, без VPN.
 
-Релиз: https://github.com/SwarmWatchman/zapRET-YOutUBE/releases/latest
-Код: https://github.com/SwarmWatchman/zapRET-YOutUBE
+Релиз: https://github.com/swarmwatchman/zapRET-YOutUBE/releases/latest
+Код: https://github.com/swarmwatchman/zapRET-YOutUBE
 Основа: https://github.com/bol-van/zapret
-Страница: https://github.com/SwarmWatchman/zapRET-YOutUBE
+Страница: https://github.com/swarmwatchman/zapRET-YOutUBE
